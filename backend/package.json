@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of the Food Shop website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Costelush/FoodShop.git"
+  },
+  "keywords": [
+    "food",
+    "shop",
+    "backend"
+  ],
+  "author": "Catalin Lungu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Costelush/FoodShop/issues"
+  },
+  "homepage": "https://github.com/Costelush/FoodShop#readme",
+  "dependencies": {
+    "elasticsearch": "^14.0.0",
+    "minio": "^3.2.3"
+  }
+}
